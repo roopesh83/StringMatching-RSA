@@ -1,0 +1,2 @@
+Valid shifts for pattern 'is'
+13	207	238	412	462	479	1157	1522	
